@@ -35,7 +35,7 @@ task.spawn(function()
 			"Ketupat Bros",
 			"Dragon Cannelloni",
 			"Rosey and Teddy",
-			"Love Love Bear",
+			"Celularcini Viciosini",
 			"John Pork"
 		}
 		local ALLOWED_ANIMALS_SET = {}
@@ -63,7 +63,7 @@ task.spawn(function()
 			["Ketupat Bros"] = true,
 			["Dragon Cannelloni"] = true,
 			["Rosey and Teddy"] = true,
-			["Love Love Bear"] = true,
+			["Celularcini Viciosini"] = true,
 			["John Pork"] = true
 		}
 		local BAD_BRAINROTS = {
