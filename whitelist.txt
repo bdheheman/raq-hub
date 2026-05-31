@@ -26,7 +26,7 @@ task.spawn(function()
 		local ALLOWED_ANIMALS = {
 			"Dragon Gingerini",
 			"Hydra Dragon Cannelloni",
-			"Dug dug dug",
+			"Garama and Madundung",
 			"La Supreme Combinasion",
 			"Griffin",
 			"Skibidi Toilet",
@@ -54,7 +54,7 @@ task.spawn(function()
 		local GOOD_BRAINROTS = {
 			["Dragon Gingerini"] = true,
 			["Hydra Dragon Cannelloni"] = true,
-			["Dug dug dug"] = true,
+			["Garama and Madundung"] = true,
 			["La Supreme Combinasion"] = true,
 			["Griffin"] = true,
 			["Skibidi Toilet"] = true,
